@@ -1,2 +1,2 @@
-# Blog-Actividades
+# Blog De Actividades
 Blog de actividades realizadas
