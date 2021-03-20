@@ -1,0 +1,54 @@
+.menu-lg {
+    margin-top: 3px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.85rem;
+    line-height: 1.9rem;
+}
+
+.menu-lg a:hover {
+    background-color: rgb(0, 0, 0, 0.22);
+}
+
+.div-icon {
+    top: 3px;
+}
+
+.search-button button {
+    width: 70px;
+    height: 25px;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    @apply  ring-2 ring-green-300 ring-opacity-50;
+}
+
+.search-button-mobile button {
+    width: 70px;
+    height: 25px;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    @apply  ring-2 ring-green-300 ring-opacity-50;
+}
+
+.search-button-mobile {
+    top: 5px;
+}
+
+#mobile-menu {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+
+#mobile-menu div a {
+    @apply transition duration-500 ease-in-out;
+}
+
+.search-bar input {
+    padding-right: 90px;
+}
+
+.active {
+    background-color: rgb(0, 0, 0, 0.22);
+    @apply text-gray-50 ring-green-500 ring-opacity-50 ring-inset ring-2
+}

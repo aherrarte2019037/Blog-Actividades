@@ -1,0 +1,12 @@
+.hero {
+    height: calc(100vh - 64px);
+    background-color: rgba(31, 41, 55);
+    background-image: url('../../../assets/bgHome.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+
+.hero h1 {
+    font-family: 'Montserrat', sans-serif;
+}
