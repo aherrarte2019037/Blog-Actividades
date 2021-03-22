@@ -1,0 +1,19 @@
+{   "items": [
+        {   
+            "name"   : "Aplicaciones Hibrídas",
+            "subject": "Practica Supervisada",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/04/05",
+            "detail": "Exposición grupal sobre frameworks para aplicaciones híbridas."
+        },
+        {   
+            "name"   : "Propuesta De Proyecto",
+            "subject": "Tecnología",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/04/12",
+            "detail": "Propuesta grupal sobre un proyecto grupal uniendo frontend y backend. La propuesta se realizará conforme a una guía presentada en clase."
+        }
+    ]
+}

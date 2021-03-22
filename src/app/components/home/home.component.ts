@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Activity } from 'src/app/models/activity.model';
+import { ActivityService } from 'src/app/services/activity.service';
 
 @Component({
   selector: 'app-home',
@@ -6,10 +8,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
+  lastActivities;
 
-  constructor() { }
-
-  ngOnInit(): void {
+  constructor( private activityService: ActivityService ) {
+    this.lastActivities = this.activityService.getLastActivities();
   }
+
+  ngOnInit(): void { }
 
 }

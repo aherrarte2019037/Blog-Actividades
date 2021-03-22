@@ -1,2 +1,7 @@
 
+.icon-right-open:before { content: '\e800'; } /* '' */
 .icon-search-2:before { content: '\e802'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-github-circled:before { content: '\f09b'; } /* '' */
+.icon-angle-right:before { content: '\f105'; } /* '' */
+.icon-linkedin:before { content: '\f318'; } /* '' */
