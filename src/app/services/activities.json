@@ -14,6 +14,14 @@
             "score"  : "-1",
             "date"   : "2021/04/12",
             "detail": "Propuesta sobre un proyecto grupal uniendo frontend y backend para crear la aplicación."
+        },
+        {   
+            "name"   : "Programación Móvil",
+            "subject": "Cálculo",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/04/15",
+            "detail": "Investigación individual sobre lenguajes de programación para programar en dispositivos Androis y IOS."
         }
     ]
 }

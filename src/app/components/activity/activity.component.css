@@ -1,0 +1,129 @@
+.hero {
+    position: relative;
+    height: 102vh;
+}
+
+@media only screen and (min-width: 1280px) {
+    .hero {
+        height: calc(100vh - 64px);
+    }
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background: url('../../../assets/background2.svg') 0 0 no-repeat;
+    background-size: cover;
+    filter: brightness(110%)
+}
+
+.card {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-left {
+    background-color: #2A265F;
+}
+
+.card-title {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    color: rgb(253, 253, 253);
+    @apply text-3xl tracking-wider;
+}
+
+.card-span {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.7);
+    @apply tracking-widest;
+}
+
+.card-button {
+    transition: all 0.3s ease-in;
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.2);
+    position: relative;
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+    font-weight: 800;
+    color: #6e5494;
+    padding: 6px 26px 6px 18px;
+    @apply tracking-wider bg-white rounded-full;
+}
+
+.card-button:hover {
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.4);
+    animation: shake 0.5s;
+    animation-iteration-count: 2;
+}
+
+.card-button i {
+    font-size: 9px;
+    position:  absolute;
+    top: 9.5px;
+}
+
+@keyframes shake {
+    0% { transform: translate(0px, 0px) rotate(0deg); }
+    50% { transform: translate(4px, 0px) rotate(0deg); }
+    100% { transform: translate(0px, 0px) rotate(0deg); }
+}
+
+.progress-container {
+    background-color: #ddd;
+    height: 6px;
+    border-radius: 100px;
+    width: 40%;
+    right: 40px;
+    top: 28px;
+    position: absolute;
+}
+
+.progress {
+    background-color: #6e5494;
+    height: 6px;
+    border-radius: 100px;
+    width: 50%;
+    position: relative;
+}
+
+.score {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    color: #6e5494;
+    letter-spacing: 0.7px;
+    font-size: 11px;
+    position: absolute;
+    right: 40px;
+    top: 40px;
+}
+
+.card-right h3 {
+    font-weight: 600;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 0.5px;
+    color: rgb(133, 130, 130);
+}
+
+.card-right h1 {
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 0.5px;
+    color: rgb(34, 34, 34);
+}
+
+.date-title {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    color: #6e5494;
+    letter-spacing: 0.7px;
+    font-size: 11px;
+}
+
+.activity-title {
+    font-family: 'Nunito', sans-serif;
+}

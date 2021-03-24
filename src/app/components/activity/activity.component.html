@@ -1,1 +1,25 @@
-<p>activity works!</p>
+<div class="hero">
+    <div class="grid grid-cols-1 xl:pt-24 xl:grid-cols-2 pt-12  justify-items-center md:mx-auto md:pl-0 md:pr-0 pl-4 pr-3 w-full md:w-4/5 gap-10">
+        <div *ngFor="let activity of activities" class="w-full h-64 shadow-2xl flex card">
+
+            <div class="card-left w-2/5 rounded-l-3xl flex-row text-left h-full px-8 py-12">
+                <span class="card-span">{{ activity.subject }}</span>
+                <h1 class="mt-1 card-title animate__animated animate__fadeIn mb-6">{{ activity.name }}</h1>
+                <button class="card-button">Ver Detalles<i class="icon-right-open"></i></button>
+            </div>
+
+            <div class="card-right relative w-3/5 bg-white rounded-r-3xl px-8 py-12">
+                <div class="progress-container flex">
+                    <div class="progress"></div>
+                </div>
+                <span *ngIf="activity.score >= 0" class="score">Calificación {{ activity.score }}/100</span>
+                <span *ngIf="activity.score < 0" class="score">Pendiente</span>
+
+                <h3 class="text-base uppercase">{{ activity.unit }}</h3>
+                <h1 class="text-xl">{{ activity.detail }}</h1>
+                <h4 class="date-title absolute right-10 top-52">{{ activity.date | date:'fullDate' | titlecase}}</h4>
+            </div>
+            
+        </div>
+    </div>
+</div>

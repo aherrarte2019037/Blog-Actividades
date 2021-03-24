@@ -16,7 +16,7 @@ export class ActivityService {
 
   getLastActivities(): Activity[] {
     const lastActivities = this.activities.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
-    return lastActivities;
+    return lastActivities.slice(0, 2);
   }
 
 }
