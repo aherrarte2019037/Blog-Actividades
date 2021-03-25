@@ -10,6 +10,7 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { HomeComponent } from './components/home/home.component';
 import { ActivityComponent } from './components/activity/activity.component';
 import { AboutComponent } from './components/about/about.component';
+import { DetailsComponent } from './components/details/details.component';
 
 registerLocaleData(localeEs, 'es')
 
@@ -19,7 +20,8 @@ registerLocaleData(localeEs, 'es')
     NavbarComponent,
     HomeComponent,
     ActivityComponent,
-    AboutComponent
+    AboutComponent,
+    DetailsComponent
   ],
   imports: [
     BrowserModule,

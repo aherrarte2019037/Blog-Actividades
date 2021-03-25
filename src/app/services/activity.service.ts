@@ -19,4 +19,9 @@ export class ActivityService {
     return lastActivities.slice(0, 2);
   }
 
+  getActivityById( id: number ): Activity {
+    const activity = this.activities.find( item => item.id === id )!; 
+    return activity;
+  }
+
 }

@@ -1,0 +1,35 @@
+.title, .title-2 {
+    letter-spacing: 1px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}
+
+.label-container {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    color: rgb(92, 91, 91);
+    font-size: 14px;
+}
+
+.label-container span {
+    padding: 10px 8px 10px 8px;
+    @apply bg-gray-200 rounded-lg w-48 text-center;
+}
+
+.back-button {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    padding-left: 26px;
+    padding-right: 16px;
+    padding-bottom: 5px;
+    padding-top: 6px;
+    @apply bg-gray-100 rounded-full ring ring-gray-200 hover:bg-gray-300 transition duration-200 ease-in focus:outline-none;
+}
+
+.icon-angle-left {
+    font-size: 17px;
+    position: absolute;
+    top: 2px;
+    left: 5px;
+}

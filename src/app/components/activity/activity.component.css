@@ -1,12 +1,7 @@
 .hero {
     position: relative;
-    height: 102vh;
-}
-
-@media only screen and (min-width: 1280px) {
-    .hero {
-        height: calc(100vh - 64px);
-    }
+    height: max-content;
+    padding-bottom: 50px;
 }
 
 .hero::before {
@@ -126,4 +121,12 @@
 
 .activity-title {
     font-family: 'Nunito', sans-serif;
+}
+
+.activity-title {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: rgb(42, 42, 43);
 }

@@ -1,27 +1,58 @@
 {   "items": [
         {   
+            "id": 1,
             "name"   : "Aplicaciones Hibrídas",
-            "subject": "Practica Supervisada",
+            "subject": "Práctica Supervisada",
             "unit"   : "II Bimestre",
             "score"  : "-1",
             "date"   : "2021/04/05",
-            "detail": "Exposición grupal sobre frameworks para aplicaciones híbridas."
+            "detail" : "Exposición grupal sobre frameworks para aplicaciones híbridas.",
+            "info"   : "Hoy en día, las aplicaciones móviles híbridas son cada vez más utilizadas en el desarrolllo de apps pero, ¿qué es exactamente una aplicación móvil híbrida?.\n\nLas aplicaciones móviles híbridas son una combinación de tecnologías web como HTML, CSS y JavaScript, que no son ni aplicaciones móviles verdaderamente nativas, porque consisten en un WebView ejecutado dentro de un contenedor nativo, ni tampoco están basadas en Web, porque se empaquetan como aplicaciones para distribución y tienen acceso a las APIs nativas del dispositivo.\n\nLas aplicaciones híbridas son aplicaciones móviles diseñadas en un lenguaje de programación web ya sea HTML5, CSS o JavaScript, junto con un framework que permite adaptar la vista web a cualquier vista de un dispositivo móvil. En otras palabras, no son más que una aplicación construida para ser utilizada o implementada en distintos sistemas operativos móviles, tales como, iOS, Android o Windows Phone, evitándonos la tarea de crear una aplicación para cada sistema operativo.\n\nDe esta manera, una aplicación híbrida puede ser adaptada a múltiples plataformas móviles sin crear nuevos códigos, pero ajustándose a algunos cambios operacionales para cada uno de ellos. Por eso es muy importante para los desarrolladores Frontend aprender las habilidadades necesarias para aprender la programación de aplicaciones nativas.",
+            "img"    : "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         {   
+            "id": 2,
             "name"   : "Propuesta De Proyecto",
             "subject": "Tecnología",
             "unit"   : "II Bimestre",
             "score"  : "-1",
             "date"   : "2021/04/12",
-            "detail": "Propuesta sobre un proyecto grupal uniendo frontend y backend para crear la aplicación."
+            "detail": "Propuesta sobre un proyecto grupal uniendo frontend y backend para crear la aplicación.",
+            "info"   : "Una propuesta de investigación esproducto de un proceso de trabajoque incluye varias actividadesimportantes, de las cuales depende su éxito o fracaso. En este punto,conviene distinguir el éxito dehaberla elaborado bien, del éxito enconseguir su aprobación, respaldoinstitucional o apoyo financiero.\n\nEl término propuesta tiene muchos significados. En el mundo académico y profesional, sin embargo, unapropuesta es un documento que describe un proyecto detrabajo a realizar en un área o sector de interés; y que seelabora para solicitar aprobación, apoyo institucional y/ofinanciero para su ejecución.\n\nHay una anécdota sobre cómo el diseñador Paul Rand le impuso a Steve Jobs condiciones para diseñar la marca gráfica de la empresa de computación NeXT en 1984, luego de su salida de Apple. La versión corta de la anécdota, reside en que Jobs le solicitó varias propuestas a Rand, y él le respondió: “No, yo voy a resolver tu problema, y me vas a pagar. Si quieres más opciones deberías buscar otras personas. Voy a resolver tu problema de la mejor forma que sé, puedes usarla o no, eres el cliente, pero me vas a pagar”. De lo anterior, se rescata que presentar varias propuestas de un diseño, producto o proyecto incluye un mensaje negativo y falso, de varias propuestas no se sabe cuál es la mejor.\n\nNuestra propuesta de proyecto tiene que estar enfocada sobre la resolución de un problema que afecte a nuestra comunidad, debe ser algo nuevo e innovar que podamos plasmarlo en un proyecto y asi poder ayudar a la sociedad.",
+            "img"    : "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         {   
+            "id": 3,
             "name"   : "Programación Móvil",
             "subject": "Cálculo",
             "unit"   : "II Bimestre",
             "score"  : "-1",
             "date"   : "2021/04/15",
-            "detail": "Investigación individual sobre lenguajes de programación para programar en dispositivos Androis y IOS."
+            "detail": "Investigación individual sobre lenguajes de programación para programar en dispositivos Androis y IOS.",
+            "info"   : "El desarrollo de aplicaciones móviles es el proceso mediante el cual las aplicaciones son desarrolladas para dispositivos de mano tales como asistentes digitales personales , asistentes digitales empresariales o teléfonos móviles . Estas aplicaciones son pre-instalado en los teléfonos durante la fabricación, o descargados por los clientes de las tiendas de aplicación y otros software de plataformas de distribución móvil.\n\nEn casi cualquier ámbito de la programación hoy en día existen infinidad de herramientas, lenguajes y entornos que puedes elegir. Toda esa variedad de opciones hacen que, en ocasiones, sea muy complicado decantarse por una opción u otra.En el mundo del desarrollo para móviles y tabletas pasa lo mismo. Actualmente hay muchas opciones, y en concreto elegir entre:\n\n•Desarrollo Nativo\n•Desarrollo Híbrido\n•PWA\n\nCada una de estas opciones tiene sus ventajas y desventajas, pero actualmente todas tienen la misma calidad y lo que mas se debe tener en cuenta es la finalidad de la aplicación y sus funciones.",
+            "img"    : "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {   
+            "id": 4,
+            "name"   : "Frameworks Web",
+            "subject": "Práctica Supervisada",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/04/19",
+            "detail": "Exposición grupal sobre frameworks para creación de páginas web.",
+            "info"   : "Los frameworks se han convertido en herramientas básicas para el desarrollo de webs y aplicaciones ya que permiten optimizar tiempos, costes y prestaciones. En los últimos años los frameworks web como Symfony, Laravel, Phalcon, Drupal han mejorado mucho y se han convertido en herramientas indispensables para los desarrolladores que quieren crear aplicaciones web optimizando tiempos, costes y prestaciones.\n\nUn framework es una herramienta de desarrollo web que, por lo general, se define como una aplicación o conjunto de módulos que permiten el desarrollo ágil de aplicaciones mediante la aportación de librerías y/o funcionalidades ya creadas. Los framework hacen que el desarrollador no esté continuamente “reinventado la rueda” y se centre en el problema que quiere resolver y no en la implementación de funcionalidades que normalmente son de uso común y que ya están resueltas por otros.\n\n• Organización De Código: El orden y control tanto del código como de los archivos es mucho mejor gracias al uso de los frameworks. Cuando realizas una instalación de framework para lenguaje PHP o cualquier otro lenguaje, estos ya incorporan una estructura definida.\n\n• Reutilizar Código: Como hablábamos antes, los framework proporcionan soluciones a la mayoría de problemáticas comunes del desarrollo de aplicaciones web.Todos los frameworks existentes, llevan una serie de utilidades para hacer el desarrollo más fácil.",
+            "img"    : "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {   
+            "id": 5,
+            "name"   : "Mockups Hoteles",
+            "subject": "Dibujo",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/04/22",
+            "detail": "Creación de mockups sobre un proyecto gestor de hoteles.",
+            "info"   : "Cuando se diseña un sitio web, en su primera aproximación, hay dos elementos que son claves para el correcto desarrollo. Además del bosquejo está el diagrama de contenidos. Este tipo de diagramas vienen muy bien para establecer la estructura del sitio y tener una visión global de dónde se ubicará cada cosa en él. En esta entrada me centraré en el bosquejo de sitios o, como dicen los modernos, la primera fase del diseño web.\n\nEn ocasiones vemos que se suele identificar a wireframe y mockup como si fueran lo mismo. En realidad existen varias diferencias, sobre todo conceptuales. El wireframe conecta la estructura conceptual con la visual y para hacer el diseño visual del sitio se suelen emplear mockups. El wireframe suele ser un boceto de baja calidad. Visualmente no es más que un conjunto de cuadros grises que organizan la información y un poco de texto que sirve para comprender mejor qué hay en cada sección de la página. Sin embargo, el mockup es un diseño de calidad media o alta. Hay más colores, diferentes tipos de letra, fondo, étc. Todo aquello que permita representar la estructura de la información y demostrar las funcionalidades básicas.\n\nMockup viene del término maqueta. Se trata de un modelo, generalmente a escala, de un diseño determinado. Aunque muchos los identifican con el término prototipo, en realidad en el entorno web no llega a ese nivel, ya que el nivel de interactuación de un mockup es mínimo. Precisamente por eso se suelen conocer también como low fidelity prototypes o paper prototypes.",
+            "img"    : "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     ]
 }
