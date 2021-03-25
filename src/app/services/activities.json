@@ -19,7 +19,7 @@
             "date"   : "2021/04/12",
             "detail": "Propuesta sobre un proyecto grupal uniendo frontend y backend para crear la aplicación.",
             "info"   : "Una propuesta de investigación esproducto de un proceso de trabajoque incluye varias actividadesimportantes, de las cuales depende su éxito o fracaso. En este punto,conviene distinguir el éxito dehaberla elaborado bien, del éxito enconseguir su aprobación, respaldoinstitucional o apoyo financiero.\n\nEl término propuesta tiene muchos significados. En el mundo académico y profesional, sin embargo, unapropuesta es un documento que describe un proyecto detrabajo a realizar en un área o sector de interés; y que seelabora para solicitar aprobación, apoyo institucional y/ofinanciero para su ejecución.\n\nHay una anécdota sobre cómo el diseñador Paul Rand le impuso a Steve Jobs condiciones para diseñar la marca gráfica de la empresa de computación NeXT en 1984, luego de su salida de Apple. La versión corta de la anécdota, reside en que Jobs le solicitó varias propuestas a Rand, y él le respondió: “No, yo voy a resolver tu problema, y me vas a pagar. Si quieres más opciones deberías buscar otras personas. Voy a resolver tu problema de la mejor forma que sé, puedes usarla o no, eres el cliente, pero me vas a pagar”. De lo anterior, se rescata que presentar varias propuestas de un diseño, producto o proyecto incluye un mensaje negativo y falso, de varias propuestas no se sabe cuál es la mejor.\n\nNuestra propuesta de proyecto tiene que estar enfocada sobre la resolución de un problema que afecte a nuestra comunidad, debe ser algo nuevo e innovar que podamos plasmarlo en un proyecto y asi poder ayudar a la sociedad.",
-            "img"    : "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            "img"    : "https://images.pexels.com/photos/7376/startup-photos.jpg?auto=compress&cs=tinysrgb&h=750&w=1260"
         },
         {   
             "id": 3,
@@ -30,7 +30,7 @@
             "date"   : "2021/04/15",
             "detail": "Investigación individual sobre lenguajes de programación para programar en dispositivos Androis y IOS.",
             "info"   : "El desarrollo de aplicaciones móviles es el proceso mediante el cual las aplicaciones son desarrolladas para dispositivos de mano tales como asistentes digitales personales , asistentes digitales empresariales o teléfonos móviles . Estas aplicaciones son pre-instalado en los teléfonos durante la fabricación, o descargados por los clientes de las tiendas de aplicación y otros software de plataformas de distribución móvil.\n\nEn casi cualquier ámbito de la programación hoy en día existen infinidad de herramientas, lenguajes y entornos que puedes elegir. Toda esa variedad de opciones hacen que, en ocasiones, sea muy complicado decantarse por una opción u otra.En el mundo del desarrollo para móviles y tabletas pasa lo mismo. Actualmente hay muchas opciones, y en concreto elegir entre:\n\n•Desarrollo Nativo\n•Desarrollo Híbrido\n•PWA\n\nCada una de estas opciones tiene sus ventajas y desventajas, pero actualmente todas tienen la misma calidad y lo que mas se debe tener en cuenta es la finalidad de la aplicación y sus funciones.",
-            "img"    : "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            "img"    : "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
         },
         {   
             "id": 4,
@@ -41,7 +41,7 @@
             "date"   : "2021/04/19",
             "detail": "Exposición grupal sobre frameworks para creación de páginas web.",
             "info"   : "Los frameworks se han convertido en herramientas básicas para el desarrollo de webs y aplicaciones ya que permiten optimizar tiempos, costes y prestaciones. En los últimos años los frameworks web como Symfony, Laravel, Phalcon, Drupal han mejorado mucho y se han convertido en herramientas indispensables para los desarrolladores que quieren crear aplicaciones web optimizando tiempos, costes y prestaciones.\n\nUn framework es una herramienta de desarrollo web que, por lo general, se define como una aplicación o conjunto de módulos que permiten el desarrollo ágil de aplicaciones mediante la aportación de librerías y/o funcionalidades ya creadas. Los framework hacen que el desarrollador no esté continuamente “reinventado la rueda” y se centre en el problema que quiere resolver y no en la implementación de funcionalidades que normalmente son de uso común y que ya están resueltas por otros.\n\n• Organización De Código: El orden y control tanto del código como de los archivos es mucho mejor gracias al uso de los frameworks. Cuando realizas una instalación de framework para lenguaje PHP o cualquier otro lenguaje, estos ya incorporan una estructura definida.\n\n• Reutilizar Código: Como hablábamos antes, los framework proporcionan soluciones a la mayoría de problemáticas comunes del desarrollo de aplicaciones web.Todos los frameworks existentes, llevan una serie de utilidades para hacer el desarrollo más fácil.",
-            "img"    : "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            "img"    : "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
         },
         {   
             "id": 5,
@@ -52,7 +52,62 @@
             "date"   : "2021/04/22",
             "detail": "Creación de mockups sobre un proyecto gestor de hoteles.",
             "info"   : "Cuando se diseña un sitio web, en su primera aproximación, hay dos elementos que son claves para el correcto desarrollo. Además del bosquejo está el diagrama de contenidos. Este tipo de diagramas vienen muy bien para establecer la estructura del sitio y tener una visión global de dónde se ubicará cada cosa en él. En esta entrada me centraré en el bosquejo de sitios o, como dicen los modernos, la primera fase del diseño web.\n\nEn ocasiones vemos que se suele identificar a wireframe y mockup como si fueran lo mismo. En realidad existen varias diferencias, sobre todo conceptuales. El wireframe conecta la estructura conceptual con la visual y para hacer el diseño visual del sitio se suelen emplear mockups. El wireframe suele ser un boceto de baja calidad. Visualmente no es más que un conjunto de cuadros grises que organizan la información y un poco de texto que sirve para comprender mejor qué hay en cada sección de la página. Sin embargo, el mockup es un diseño de calidad media o alta. Hay más colores, diferentes tipos de letra, fondo, étc. Todo aquello que permita representar la estructura de la información y demostrar las funcionalidades básicas.\n\nMockup viene del término maqueta. Se trata de un modelo, generalmente a escala, de un diseño determinado. Aunque muchos los identifican con el término prototipo, en realidad en el entorno web no llega a ese nivel, ya que el nivel de interactuación de un mockup es mínimo. Precisamente por eso se suelen conocer también como low fidelity prototypes o paper prototypes.",
-            "img"    : "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            "img"    : "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {   
+            "id": 6,
+            "name"   : "Presentación De Proyecto",
+            "subject": "Tecnología",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/04/26",
+            "detail": "Exposición formal en clase sobre la propuesta de proyecto.",
+            "info"   : "En el area de informática, un proyecto esta divido en 2 partes, la propuesta y la presentación del proyecto. Al desarrollar un proyecto ya sea de manera individual o grupal no se debe enforcar únicamente en un parte, tanto la propuesta como la presentación tienen la misma importancia.\n\nEn la presentación del proyecto se deben abarcar los aspectos más relevantes e importantes, en la presentación se tiene que contar la historia del proyecto, con su introducción, nudo y desenlace. La duración de la presentación no debe exceder los 20 minutos y es muy importante mantener la atención del público y evitar las explicaciones muy detalladas.\n\nAspectos Importantes:\n• Explicación concreta\n• Base Sólida\n• Objetivos Claros\n• Entusiasmo en el proyecto\n\nHerramientas:\n• Presentación De Diapositivas\n• Videos Corporativos\n• Presentación En Equipo",
+            "img"    : "https://images.pexels.com/photos/4311290/pexels-photo-4311290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {   
+            "id": 7,
+            "name"   : "Manual De Usuario",
+            "subject": "Taller",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/04/29",
+            "detail": "Creación de un manual de usuario basado en el proyecto del 2do bimestre.",
+            "info"   : "Un manual de usuario es un conjunto de técnicas de uso y recomendaciones que acompañan a un producto en el momento de la adquisición para que el usuario pueda hacer un uso adecuado y eficiente del mismo.\n\nEs una publicación que incluye los aspectos fundamentales de una materia. Se trata de una guía que ayuda a entender el funcionamiento de algo, o bien que educa a sus lectores acerca de un tema de forma ordenada y concisa. Un usuario es, por otra parte, la persona que usa ordinariamente algo o que es destinataria de un producto o de un servicio.\n\nEste tipo de publicaciones brinda las instrucciones necesarias para que un usuario pueda utilizar un determinado producto o servicio. Por ejemplo, si el manual de usuario está referido a un teléfono móvil, incluirá los conceptos y las guías necesarias para su utilización, detallando las funciones de sus teclas, las opciones disponibles a través de los diferentes menús, etc.Los manuales de usuarios suelen estar escritos en diversos idiomas y contar tanto con textos como con imágenes. De esta forma se facilita la comprensión de los conceptos. Los diagramas y esquemas también son habituales.\n\nSecciones:\n• Introducción al producto\n• Índice con los contenidos del manual\n• La guía\n• Sección de problemas frcuentes\n• Datos de contacto\n• Glosario",
+            "img"    : "https://images.pexels.com/photos/2663851/pexels-photo-2663851.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {   
+            "id": 8,
+            "name"   : "Prueba Corta",
+            "subject": "Tecnología",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/05/06",
+            "detail" : "Prueba corta sobre las tecnologias Nodejs, Express, NPM, MongoDB, Typescript y Angular.",
+            "info"   : "Desarrollo web significa construir y mantener sitios web; es el trabajo que tiene lugar en un segundo plano y que permite que una web tenga una apariencia impecable, un funcionamiento rápido y un buen desempeño para permitir la mejor experiencia de usuario. Los desarrolladores web son como duendes con poderes: nunca los ves, pero son los que hacen que todo esté bien y funcione de manera rápida y eficiente.\n\nLos desarrolladores web lo hacen a través de diversos lenguajes de programación. El lenguaje que usan en cada momento depende del tipo de tarea que están haciendo. El desarrollo web se divide, de forma general, en Frontend (la parte cliente) y Backend (la parte servidor).\n\n• Frontend\nUn desarrollador Frontend se encarga de la composición, diseño e interactividad usando HTML, CSS y JavaScript. El desarrollador Frontend toma una idea y la convierte en realidad. Lo que ves y lo que usas, como por ejemplo el aspecto visual del sitio web, los menús desplegables y el texto, son creados por el desarrollador Frontend, que escribe una serie de programas para dar estructura, forma e interactividad a estos elementos.\n\n• Backend\nEl desarrollador Backend se encarga de lo que no se ve, es decir, dónde se almacenan los datos. Sin datos no hay Frontend. El Backend consiste en el servidor que acoge la web, una aplicación para ejecutarlo y una base de datos. El desarrollador Backend utiliza programas de computación para asegurar que el servidor, la aplicación y la base de datos tengan un desempeño regular conjunto. Además, analiza qué necesita la empresa y proporciona soluciones de programación eficientes. Para hacer este increíble trabajo, utiliza una serie de lenguajes del lado del servidor, como PHP, Ruby, Python y Java.",
+            "img"    : "https://images.pexels.com/photos/4778424/pexels-photo-4778424.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {   
+            "id": 9,
+            "name"   : "Creación De Un Blog",
+            "subject": "Taller",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/05/10",
+            "detail" : "Realización de un blog donde se va a publicar las actividades realizadas durante el bimestre.",
+            "info"   : "Un blog es una página web en la que se publican regularmente artículos cortos con contenido actualizado y novedoso sobre temas específicos o libres. Estos artículos se conocen en inglés como 'post' o publicaciones en español.\n\nLos artículos de un blog suelen estar acompañados de fotografías, videos, sonidos y hasta de animaciones y gráficas que ilustran mucho mejor el tema tratado. En pocas palabras, un blog es un espacio en internet que puedes usar para expresar tus ideas, intereses, experiencias y opiniones.Los blogs iniciaron como espacios en línea donde las personas podían expresar sus opiniones, pensamientos, fotografías e incluso videos. La mayoría de los blogs son escritos por una sola persona y otros son creados en conjunto como las revistas en internet que tienen una gran credibilidad y un enorme número de lectores y seguidores.\n\nCaracterísticas:\n• Publicación peródica\n• Interacción con los lectores y comunidad\n• Debe contener posts\n• Organización de contenido por categrías",
+            "img"    : "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {   
+            "id": 10,
+            "name"   : "Gestor De Hoteles",
+            "subject": "Taller",
+            "unit"   : "II Bimestre",
+            "score"  : "-1",
+            "date"   : "2021/05/17",
+            "detail" : "Realización de una Aplicación Web en Angular, Nodejs y MongoDB.",
+            "info"   : "Las aplicaciones web son un tipo de software que se codifica en un lenguaje soportado por los navegadores web y cuya ejecución es llevada a cabo por el navegador en internet o de una intranet. Las aplicaciones web son ejecutadas por medio de un navegador web en una red, significa que los datos o los archivos en los que trabajas son procesados y almacenados dentro de la una red a través de un navegador. Por este motivo, este tipo de aplicaciones no necesitan ser instaladas en el ordenador o el móvil.\n\nAngular:\n• Es un framework opensource desarrollado por Google para facilitar la creación y programación de aplicaciones web de una sola página, las webs SPA (Single Page Application). Angular separa completamente el frontend y el backend en la aplicación, evita escribir código repetitivo y mantiene todo más ordenado gracias a su patrón MVC (Modelo-Vista-Controlador) asegurando los desarrollos con rapidez, a la vez que posibilita modificaciones y actualizaciones.\n\n• NodeJS:\nEs un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google. Fue creado con el enfoque de ser útil en la creación de programas de red altamente escalables, como por ejemplo, servidores web.\n\n• MongoDB:\nEs una base de datos orientada a documentos. Esto quiere decir que en lugar de guardar los datos en registros, guarda los datos en documentos. Estos documentos son almacenados en BSON, que es una representación binaria de JSON. Una de las diferencias más importantes con respecto a las bases de datos relacionales, es que no es necesario seguir un esquema. Los documentos de una misma colección - concepto similar a una tabla de una base de datos relacional, pueden tener esquemas diferentes.",
+            "img"    : "https://images.pexels.com/photos/4825701/pexels-photo-4825701.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
         }
     ]
 }

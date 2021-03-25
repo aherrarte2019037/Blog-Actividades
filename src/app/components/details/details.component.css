@@ -13,18 +13,20 @@
 }
 
 .label-container span {
-    padding: 10px 8px 10px 8px;
-    @apply bg-gray-200 rounded-lg w-48 text-center;
+    padding-top: 8px;
+    padding-bottom: 6px;
+    @apply bg-gray-200 w-44 rounded-lg text-center;
 }
 
 .back-button {
+    font-size: 13px;
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     padding-left: 26px;
     padding-right: 16px;
     padding-bottom: 5px;
     padding-top: 6px;
-    @apply bg-gray-100 rounded-full ring ring-gray-200 hover:bg-gray-300 transition duration-200 ease-in focus:outline-none;
+    @apply rounded-full ring-2 ring-gray-200 hover:bg-gray-200 transition duration-200 ease-in focus:outline-none;
 }
 
 .icon-angle-left {

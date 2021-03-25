@@ -9,8 +9,8 @@ import { ActivityService } from 'src/app/services/activity.service';
   styleUrls: ['./details.component.css']
 })
 export class DetailsComponent implements OnInit {
-  activityId!: number;
-  activity!: Activity
+  activityId: number;
+  activity: Activity
 
   constructor( private route: ActivatedRoute, private activityService: ActivityService ) {}
 
